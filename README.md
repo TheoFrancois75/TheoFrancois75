@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheoFrancois75
-- 👀 I’m interested in ...le front dev et l'intelligence artificiel
-- 🌱 I’m currently learning ...la data science (traitement de données, creation e model, optimisation
+- 👀 I’m interested in ...le front dev et l'intelligence  artificielle
+- 🌱 I’m currently learning ...la data science (traitement de données, creation de model, optimisation
 - 💞️ I’m looking to collaborate on  mes projets
 - 📫 How to reach me ...par mail  : theo.francois75@outlook.fr
 
